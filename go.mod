@@ -1,4 +1,4 @@
-module github.com/caddyserver/replace-response
+module github.com/dausruddin/replace-response
 
 go 1.15
 
